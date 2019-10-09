@@ -3,33 +3,31 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://d2d.sh/</loc>
+    <lastmod>2016-08-09T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://d2d.sh/2016/on-purpose/</loc>
     <lastmod>2016-08-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://d2d.sh/</loc>
-    <lastmod>2016-08-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://d2d.sh/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://d2d.sh/posts/</loc>
     <lastmod>2016-08-09T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://d2d.sh/tags/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://d2d.sh/about/</loc>
+  </url>
+  
+  <url>
+    <loc>https://d2d.sh/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://d2d.sh/tags/</loc>
   </url>
   
 </urlset>
