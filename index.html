@@ -15,7 +15,7 @@
     body {
         background: #fffdfa;
         color: #000;
-        font-family: sans-serif;
+        font-family: Lucida Sans Unicode, Lucida Grande, sans-serif;
         font-size: 14px;
         margin: 0;
         padding: 0;
@@ -26,6 +26,16 @@
     }
     h2 {
         font-size: 14px;
+    }
+    #main {
+        display: block;
+        margin-top: -18px;
+        margin-bottom: 10px;
+        font-size: 18px;
+    }
+    #bangla {
+        margin-top: -6px;
+        color: #00000099;
     }
     #nav {
         float: left;
@@ -93,8 +103,8 @@
 <body>
     <div id="nav">
         <a href="https://d2d.sh"><div id="square"></div></a>
-        <a style="font-size: 18px;" href="https://d2d.sh">diptodip</a>
-        <h2>দীপ্তদীপ</h2>
+        <h2 id="bangla">দীপ্তদীপ</h2>
+        <a id="main" href="https://d2d.sh">diptodip</a>
         <a class="nav" href="https://d2d.sh/about">about,</a>
         <a class="nav" href="https://d2d.sh/files/cv.pdf">cv,</a>
         <a class="nav" href="https://github.com/diptodip">src</a>
@@ -106,3 +116,4 @@
         </ol>
     </div>
 </body>
+</html>
